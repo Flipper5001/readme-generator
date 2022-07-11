@@ -1,0 +1,22 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "This application will take in various user inputs to create a professional styled readme file for your projects",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/Flipper5001/readme-generator"
+  },
+  "keywords": [
+    "readme",
+    "generator"
+  ],
+  "author": "Flipper5001",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  }
+}
