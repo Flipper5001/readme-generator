@@ -21,7 +21,7 @@ This product is designed to create a professional README file for any project/re
 
 ## Installation Instructions
 
-Please follow these steps when running this application. <br/><br/>1. git clone the repository to your local machine. <br/>2. In terminal, CD into your destination folder demo. <br/>3. Type and enter 'npm install' to install any dependencies. <br/>4. Type and enter 'node index.js' to run the application.
+Please follow these steps when running this application. <br/><br/>1. git clone the repository to your local machine. <br/>2. In terminal, CD into your destination folder demo. <br/>3. Type and enter 'npm install' to install any dependencies. <br/>4. Type and enter 'node index.js' to run the application. <br/>5. Your finished README will be created in the output folder.
 
 ## Usage Information
 
