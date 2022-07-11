@@ -17,6 +17,6 @@
   "author": "Flipper5001",
   "license": "MIT",
   "dependencies": {
-    "inquirer": "^6.5.2"
+    "inquirer": "^8.2.4"
   }
 }
