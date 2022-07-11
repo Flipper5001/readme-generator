@@ -27,6 +27,11 @@ Please follow these steps when running this application. <br/><br/>1. git clone 
 
 This project should be used to create README files for git repositories, sample README files for alteration and/or provide an open source code for users to see how to create an application similar to this one. <br/>Hints to handling this application: <br/> - Should you want to place something on a new line, please use a line break "<br/_>" (without the _ ).<br/>- If you would like to add new headings, please use ## before the heading name on a new line.
 
+Link to video instructions on how to run the application:  
+https://1drv.ms/v/s!Avf51vHVO9u7mC8xoucp7vdZX3PT  
+
+example of questions layout:
+  
 
 ![Screenshot](./demo/assets/screenshot.PNG)
 
